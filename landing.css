@@ -1,0 +1,11 @@
+body{
+    margin: 80px;
+    text-align: center;
+}
+
+.loginbutton{
+    background-color: #f4425f; /* Green */
+    border: solid;
+    color: white;
+    padding: 8px 15px;
+}
